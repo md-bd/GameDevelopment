@@ -2,7 +2,11 @@
 
 
 These projects are done by me for a course in coursera.
+
+
 Specialization name: Game Design and Development Specialization
+
+
 Course name: [Introduction to Game Development](https://www.coursera.org/learn/game-development)
 
 I have provided only WebGL builds of the projects. 
